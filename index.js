@@ -69,7 +69,7 @@ function checkGuess() {
   resetButton.style.display = '';
 }
 
-// (kh) where hide function was (ts)
+// (kh)  where hide function was (ts)
 
 function setup() {
   // Get random number
